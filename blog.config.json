@@ -1,0 +1,38 @@
+{
+  "siteName": "Выкуп.AI",
+  "siteUrl": "https://murzzsite.github.io/vikup-ai",
+  "lang": "ru",
+  "repo": "murzzsite/vikup-ai",
+  "ref": "WZCF7ZXZZ9",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи Выкуп.AI о продвижении карточек на Wildberries и Ozon: выкупы, позиции, рейтинг, логистика",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Выкуп.AI",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Пришлите ссылку на карточку: проанализируем и подскажем объём и график выкупов.",
+  "ctaButton": "Рассчитать кампанию",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер и не гарантирует результата: позиции и продажи зависят от карточки, ниши, цены и правил маркетплейса. Маркетплейсы ограничивают искусственное влияние на показатели, учитывайте это при планировании.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "55f8c9ea78506e12990d12da4601e83e",
+  "previewSecret": "cb181095920bf9d6",
+  "theme": {
+    "accent": "var(--accent)",
+    "accent-soft": "var(--accent-soft)",
+    "bg": "var(--bg)",
+    "surface": "var(--surface)",
+    "ink": "var(--ink)",
+    "soft": "var(--ink-soft)",
+    "line": "var(--border)"
+  }
+}
