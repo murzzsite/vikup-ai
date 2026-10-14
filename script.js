@@ -70,7 +70,7 @@
   });
 
   const targets = document.querySelectorAll(
-    '.audience__card, .price-card, .price__table, .method__box, .step, .faq__item, .form, .hero__card, .recognize__list li'
+    '.audience__card, .case__box, .price-card, .price__table, .method__box, .step, .faq__item, .form, .hero__card, .recognize__list li'
   );
   targets.forEach(el => el.classList.add('reveal'));
   const io = new IntersectionObserver(entries => {
