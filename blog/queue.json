@@ -1,16 +1,14 @@
 {
   "site": "https://murzzsite.github.io/vikup-ai",
-  "updated": "2026-10-14",
-  "awaiting": [
+  "updated": "2026-10-15",
+  "awaiting": [],
+  "scheduled": [],
+  "published": [
     {
       "slug": "skolko-vykupov-nuzhno-kartochke",
-      "path": "articles/skolko-vykupov-nuzhno-kartochke.md",
       "title": "Сколько выкупов нужно карточке на Wildberries и Ozon и как это посчитать",
-      "description": "Сколько выкупов нужно карточке на Wildberries и Ozon: от чего зависит объём, как считать график, какие ошибки сжигают бюджет и какие риски есть.",
-      "reading_time": "4 мин чтения",
-      "preview_url": "https://murzzsite.github.io/vikup-ai/blog/preview/cb3bcd114311/skolko-vykupov-nuzhno-kartochke/"
+      "url": "https://murzzsite.github.io/vikup-ai/blog/skolko-vykupov-nuzhno-kartochke/",
+      "date": "2026-10-15"
     }
-  ],
-  "scheduled": [],
-  "published": []
+  ]
 }
