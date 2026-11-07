@@ -3,14 +3,6 @@
   "updated": "2026-11-07",
   "awaiting": [
     {
-      "slug": "kak-vybrat-servis-vykupov",
-      "path": "articles/kak-vybrat-servis-vykupov.md",
-      "title": "Как выбрать сервис выкупов для Wildberries и Ozon: восемь вопросов до оплаты",
-      "description": "Как выбрать исполнителя выкупов на Wildberries и Ozon: восемь вопросов до оплаты, что входит в цену, как считают объём и на какие обещания не вестись.",
-      "reading_time": "4 мин чтения",
-      "preview_url": "https://murzzsite.github.io/vikup-ai/blog/preview/09841eb12878/kak-vybrat-servis-vykupov/"
-    },
-    {
       "slug": "pochemu-kartochka-ne-rastet-v-poiske",
       "path": "articles/pochemu-kartochka-ne-rastet-v-poiske.md",
       "title": "Почему карточка не растёт в поиске Wildberries и Ozon: восемь причин и что проверить",
@@ -27,7 +19,13 @@
       "preview_url": "https://murzzsite.github.io/vikup-ai/blog/preview/32349834fc2b/zabor-tovara-s-pvz-posle-vykupa/"
     }
   ],
-  "scheduled": [],
+  "scheduled": [
+    {
+      "slug": "kak-vybrat-servis-vykupov",
+      "title": "Как выбрать сервис выкупов для Wildberries и Ozon: восемь вопросов до оплаты",
+      "date": "2026-11-14"
+    }
+  ],
   "published": [
     {
       "slug": "kak-ocenit-rezultat-vykupov",
