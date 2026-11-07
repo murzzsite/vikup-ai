@@ -1,15 +1,7 @@
 {
   "site": "https://murzzsite.github.io/vikup-ai",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "awaiting": [
-    {
-      "slug": "kak-ocenit-rezultat-vykupov",
-      "path": "articles/kak-ocenit-rezultat-vykupov.md",
-      "title": "Как оценить результат выкупов на Wildberries и Ozon: метрики и типичные ошибки",
-      "description": "Как понять, сработали ли выкупы на Wildberries и Ozon: позиции, рейтинг, заказы, оборот. Как сравнивать «до» и «после» и не приписывать выкупам лишнее.",
-      "reading_time": "3 мин чтения",
-      "preview_url": "https://murzzsite.github.io/vikup-ai/blog/preview/b733a437e17a/kak-ocenit-rezultat-vykupov/"
-    },
     {
       "slug": "kak-vybrat-servis-vykupov",
       "path": "articles/kak-vybrat-servis-vykupov.md",
@@ -37,6 +29,12 @@
   ],
   "scheduled": [],
   "published": [
+    {
+      "slug": "kak-ocenit-rezultat-vykupov",
+      "title": "Как оценить результат выкупов на Wildberries и Ozon: метрики и типичные ошибки",
+      "url": "https://murzzsite.github.io/vikup-ai/blog/kak-ocenit-rezultat-vykupov/",
+      "date": "2026-11-07"
+    },
     {
       "slug": "skolko-vykupov-nuzhno-kartochke",
       "title": "Сколько выкупов нужно карточке на Wildberries и Ozon и как это посчитать",
