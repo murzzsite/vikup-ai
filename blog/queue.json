@@ -1,16 +1,7 @@
 {
   "site": "https://murzzsite.github.io/vikup-ai",
   "updated": "2026-11-07",
-  "awaiting": [
-    {
-      "slug": "zabor-tovara-s-pvz-posle-vykupa",
-      "path": "articles/zabor-tovara-s-pvz-posle-vykupa.md",
-      "title": "Забор товара с ПВЗ после выкупа на Wildberries и Ozon: как организовать логистику",
-      "description": "Что делать с товаром после выкупа на Wildberries и Ozon: забор с ПВЗ, хранение, переупаковка, новая поставка и отправка. Как организовать и во сколько обойдётся.",
-      "reading_time": "3 мин чтения",
-      "preview_url": "https://murzzsite.github.io/vikup-ai/blog/preview/32349834fc2b/zabor-tovara-s-pvz-posle-vykupa/"
-    }
-  ],
+  "awaiting": [],
   "scheduled": [
     {
       "slug": "kak-vybrat-servis-vykupov",
@@ -21,6 +12,11 @@
       "slug": "pochemu-kartochka-ne-rastet-v-poiske",
       "title": "Почему карточка не растёт в поиске Wildberries и Ozon: восемь причин и что проверить",
       "date": "2026-11-21"
+    },
+    {
+      "slug": "zabor-tovara-s-pvz-posle-vykupa",
+      "title": "Забор товара с ПВЗ после выкупа на Wildberries и Ozon: как организовать логистику",
+      "date": "2026-11-28"
     }
   ],
   "published": [
