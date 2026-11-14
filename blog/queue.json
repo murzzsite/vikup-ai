@@ -1,13 +1,8 @@
 {
   "site": "https://murzzsite.github.io/vikup-ai",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "awaiting": [],
   "scheduled": [
-    {
-      "slug": "kak-vybrat-servis-vykupov",
-      "title": "Как выбрать сервис выкупов для Wildberries и Ozon: восемь вопросов до оплаты",
-      "date": "2026-11-14"
-    },
     {
       "slug": "pochemu-kartochka-ne-rastet-v-poiske",
       "title": "Почему карточка не растёт в поиске Wildberries и Ozon: восемь причин и что проверить",
@@ -20,6 +15,12 @@
     }
   ],
   "published": [
+    {
+      "slug": "kak-vybrat-servis-vykupov",
+      "title": "Как выбрать сервис выкупов для Wildberries и Ozon: восемь вопросов до оплаты",
+      "url": "https://murzzsite.github.io/vikup-ai/blog/kak-vybrat-servis-vykupov/",
+      "date": "2026-11-14"
+    },
     {
       "slug": "kak-ocenit-rezultat-vykupov",
       "title": "Как оценить результат выкупов на Wildberries и Ozon: метрики и типичные ошибки",
