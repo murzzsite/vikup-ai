@@ -1,13 +1,8 @@
 {
   "site": "https://murzzsite.github.io/vikup-ai",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "awaiting": [],
   "scheduled": [
-    {
-      "slug": "pochemu-kartochka-ne-rastet-v-poiske",
-      "title": "Почему карточка не растёт в поиске Wildberries и Ozon: восемь причин и что проверить",
-      "date": "2026-11-21"
-    },
     {
       "slug": "zabor-tovara-s-pvz-posle-vykupa",
       "title": "Забор товара с ПВЗ после выкупа на Wildberries и Ozon: как организовать логистику",
@@ -15,6 +10,12 @@
     }
   ],
   "published": [
+    {
+      "slug": "pochemu-kartochka-ne-rastet-v-poiske",
+      "title": "Почему карточка не растёт в поиске Wildberries и Ozon: восемь причин и что проверить",
+      "url": "https://murzzsite.github.io/vikup-ai/blog/pochemu-kartochka-ne-rastet-v-poiske/",
+      "date": "2026-11-21"
+    },
     {
       "slug": "kak-vybrat-servis-vykupov",
       "title": "Как выбрать сервис выкупов для Wildberries и Ozon: восемь вопросов до оплаты",
